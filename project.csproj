@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D30118F2-F7BD-44D9-B197-A8C5C152845A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admindashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admindashboard.Designer.cs">
+      <DependentUpon>Admindashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeEMPpassword .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeEMPpassword .Designer.cs">
+      <DependentUpon>ChangeEMPpassword .cs</DependentUpon>
+    </Compile>
+    <Compile Include="changePassCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePassCustomer.Designer.cs">
+      <DependentUpon>changePassCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerManagement.Designer.cs">
+      <DependentUpon>CustomerManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomPopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomPopupForm.Designer.cs">
+      <DependentUpon>CustomPopupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="databaseConnection.cs" />
+    <Compile Include="employeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeeDashboard.Designer.cs">
+      <DependentUpon>employeeDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerLogin.Designer.cs">
+      <DependentUpon>customerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeProfile.Designer.cs">
+      <DependentUpon>EmployeeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employeeRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeeRegistration.Designer.cs">
+      <DependentUpon>employeeRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderPopUp.Designer.cs">
+      <DependentUpon>OrderPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProductList.Designer.cs">
+      <DependentUpon>ProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileForm.Designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReStoke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReStoke.Designer.cs">
+      <DependentUpon>ReStoke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectState.Designer.cs">
+      <DependentUpon>selectState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UAdd product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UAdd product.Designer.cs">
+      <DependentUpon>UAdd product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCemployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCemployee.Designer.cs">
+      <DependentUpon>UCemployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcOrder.Designer.cs">
+      <DependentUpon>UcOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCProduct.Designer.cs">
+      <DependentUpon>UCProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UCproductview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCproductview.Designer.cs">
+      <DependentUpon>UCproductview.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admindashboard.resx">
+      <DependentUpon>Admindashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeEMPpassword .resx">
+      <DependentUpon>ChangeEMPpassword .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePassCustomer.resx">
+      <DependentUpon>changePassCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerLogin.resx">
+      <DependentUpon>customerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerManagement.resx">
+      <DependentUpon>CustomerManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomPopupForm.resx">
+      <DependentUpon>CustomPopupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeeDashboard.resx">
+      <DependentUpon>employeeDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeProfile.resx">
+      <DependentUpon>EmployeeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeeRegistration.resx">
+      <DependentUpon>employeeRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderPopUp.resx">
+      <DependentUpon>OrderPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductList.resx">
+      <DependentUpon>ProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReStoke.resx">
+      <DependentUpon>ReStoke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectState.resx">
+      <DependentUpon>selectState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UAdd product.resx">
+      <DependentUpon>UAdd product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCemployee.resx">
+      <DependentUpon>UCemployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcOrder.resx">
+      <DependentUpon>UcOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCProduct.resx">
+      <DependentUpon>UCProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCproductview.resx">
+      <DependentUpon>UCproductview.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-12-04 234117.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-key-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cross-30_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimize-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1308682666-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\texture-gradient-simple-background-blue-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cross-30_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Arrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Arrow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Replay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_User_Male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG_blur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp_profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Marker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7oab7rjr4pa67vounkh53kmg1r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-stock-rotation-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp_profile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test_Account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Time_Machine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping_Cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Order_Completed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
