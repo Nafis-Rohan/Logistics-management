@@ -62,9 +62,9 @@ The **Shipping Management System** is a streamlined solution designed to simplif
 - Browse products, place orders, and track order status.
 - Manage profiles, change passwords, and cancel orders when applicable.
 
-⚙️ Technology Stack
-Frontend: .NET Framework
-Backend: .NET Core
-IDE: Visual Studio
-Database: Data Storage and Processing
-Version Control: Git & GitHub
+## ⚙️ Technology Stack
+
+- **Frontend:** .NET Framework
+- **Backend:** .NET Core
+- **IDE:** Visual Studio
+- **Database:** Data Storage and Processing (In VS)
