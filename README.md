@@ -71,7 +71,6 @@ The **Shipping Management System** is a streamlined solution designed to simplif
 - **Design Approach**: Utilized Visual Studio's drag-and-drop design interface for creating a user-friendly desktop application UI.
 
 ### Backend:
-- **IDE:** Visual Studio
 - **Technology**: .NET Framework (C#)
 - **Logic**: Core business logic and order management functionalities are implemented in C#.
 - **Database**: Data storage and processing are handled within Visual Studio's integrated Data Storage and Processing framework.
