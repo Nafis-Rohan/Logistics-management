@@ -75,4 +75,4 @@ The **Shipping Management System** is a streamlined solution designed to simplif
 - **Technology**: .NET Framework (C#)
 - **Logic**: Core business logic and order management functionalities are implemented in C#.
 - **Database**: Data storage and processing are handled within Visual Studio's integrated Data Storage and Processing framework.
-- **Database:** Data Storage and Processing (In VS)
+
