@@ -1,4 +1,4 @@
-# Shipping Management System
+# Logistics Management System
 
 The **Shipping Management System** is a streamlined solution designed to simplify logistics management and facilitate seamless interactions among Customers, Admins, and Employees. This system provides comprehensive features tailored to each user role, ensuring efficient and on-the-go services for all users involved in the shipping process.
 
