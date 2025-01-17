@@ -1,0 +1,387 @@
+D:\5th sem\oop2\final\project\project\bin\Debug\project.exe.config
+D:\5th sem\oop2\final\project\project\bin\Debug\project.exe
+D:\5th sem\oop2\final\project\project\bin\Debug\project.pdb
+D:\5th sem\oop2\final\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\5th sem\oop2\final\project\project\obj\Debug\project.Properties.Resources.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\5th sem\oop2\final\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\5th sem\oop2\final\project\project\obj\Debug\project.exe
+D:\5th sem\oop2\final\project\project\obj\Debug\project.pdb
+C:\Users\Reyad\source\repos\project\project\project\bin\Debug\project.exe.config
+C:\Users\Reyad\source\repos\project\project\project\bin\Debug\project.exe
+C:\Users\Reyad\source\repos\project\project\project\bin\Debug\project.pdb
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.Login.resources
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.exe
+C:\Users\Reyad\source\repos\project\project\project\obj\Debug\project.pdb
+D:\5th sem\oop2\project\project\project\bin\Debug\project.exe.config
+D:\5th sem\oop2\project\project\project\bin\Debug\project.exe
+D:\5th sem\oop2\project\project\project\bin\Debug\project.pdb
+D:\5th sem\oop2\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\5th sem\oop2\project\project\project\obj\Debug\project.DashBoard.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.Login.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.Properties.Resources.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\5th sem\oop2\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\5th sem\oop2\project\project\project\obj\Debug\project.exe
+D:\5th sem\oop2\project\project\project\obj\Debug\project.pdb
+D:\5th sem\oop2\project\project\project\obj\Debug\project.UCDashboardLayout.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.UCcustomOrder.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.UCfaq.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.UCmyOrder.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.UCProduct.resources
+D:\5th sem\oop2\project\project\project\obj\Debug\project.ProfileForm.resources
+C:\Users\User\Downloads\project (1)\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\project (1)\project\project\project\obj\Debug\project.exe
+C:\Users\User\Downloads\project (1)\project\project\project\obj\Debug\project.pdb
+D:\5th sem\oop2\final\project\project\obj\Debug\project.DashBoard.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.EmployeeLogin.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.customerLogin.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.Home.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.ProfileForm.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.RegistrationForm.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.UCcustomOrder.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.UCDashboardLayout.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.UCfaq.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.UCmyOrder.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.UCProduct.resources
+D:\5th sem\oop2\final\project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Reyad\Downloads\project\project\project\bin\Debug\project.exe.config
+C:\Users\Reyad\Downloads\project\project\project\bin\Debug\project.exe
+C:\Users\Reyad\Downloads\project\project\project\bin\Debug\project.pdb
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.DashBoard.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.EmployeeLogin.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.customerLogin.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.Home.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.ProfileForm.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.UCcustomOrder.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.UCDashboardLayout.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.UCfaq.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.UCmyOrder.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.UCProduct.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.exe
+C:\Users\Reyad\Downloads\project\project\project\obj\Debug\project.pdb
+D:\personal\project (2)\project\project\project\bin\Debug\project.exe.config
+D:\personal\project (2)\project\project\project\bin\Debug\project.exe
+D:\personal\project (2)\project\project\project\bin\Debug\project.pdb
+D:\personal\project (2)\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\personal\project (2)\project\project\project\obj\Debug\project.customerLogin.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.DashBoard.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.EmployeeLogin.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.Home.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.ProfileForm.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.Properties.Resources.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.RegistrationForm.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.UCcustomOrder.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.UCDashboardLayout.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.UCfaq.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.UCmyOrder.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.UCProduct.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.AdminLogin.resources
+D:\personal\project (2)\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\personal\project (2)\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\personal\project (2)\project\project\project\obj\Debug\project.exe
+D:\personal\project (2)\project\project\project\obj\Debug\project.pdb
+D:\personal\project (2)\project\project\project\obj\Debug\project.Admindashboard.resources
+C:\Users\nafis\Downloads\project\project\bin\Debug\project.exe.config
+C:\Users\nafis\Downloads\project\project\bin\Debug\project.exe
+C:\Users\nafis\Downloads\project\project\bin\Debug\project.pdb
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.Admindashboard.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.customerLogin.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.DashBoard.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.Home.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.ProfileForm.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCcustomOrder.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCDashboardLayout.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCfaq.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCmyOrder.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCProduct.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.exe
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.pdb
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.CustomerManagement.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCadminHome.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UCemployee.resources
+D:\report\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\report\project\project\obj\Debug\project.exe
+D:\report\project\project\obj\Debug\project.pdb
+D:\report\project\project\bin\Debug\project.exe.config
+D:\report\project\project\bin\Debug\project.exe
+D:\report\project\project\bin\Debug\project.pdb
+D:\report\project\project\obj\Debug\project.Admindashboard.resources
+D:\report\project\project\obj\Debug\project.customerLogin.resources
+D:\report\project\project\obj\Debug\project.CustomerManagement.resources
+D:\report\project\project\obj\Debug\project.DashBoard.resources
+D:\report\project\project\obj\Debug\project.EmployeeLogin.resources
+D:\report\project\project\obj\Debug\project.Home.resources
+D:\report\project\project\obj\Debug\project.ProfileForm.resources
+D:\report\project\project\obj\Debug\project.Properties.Resources.resources
+D:\report\project\project\obj\Debug\project.RegistrationForm.resources
+D:\report\project\project\obj\Debug\project.UCadminHome.resources
+D:\report\project\project\obj\Debug\project.UCcustomOrder.resources
+D:\report\project\project\obj\Debug\project.UCDashboardLayout.resources
+D:\report\project\project\obj\Debug\project.UCemployee.resources
+D:\report\project\project\obj\Debug\project.UCfaq.resources
+D:\report\project\project\obj\Debug\project.UCmyOrder.resources
+D:\report\project\project\obj\Debug\project.UCProduct.resources
+D:\report\project\project\obj\Debug\project.AdminLogin.resources
+D:\report\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\report\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.employeeRegistration.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.EmployeeDashboard.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.changePassCustomer.resources
+C:\Users\User\Downloads\project_R\project\project\bin\Debug\project.exe.config
+C:\Users\User\Downloads\project_R\project\project\bin\Debug\project.exe
+C:\Users\User\Downloads\project_R\project\project\bin\Debug\project.pdb
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.Admindashboard.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.changePassCustomer.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.customerLogin.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.CustomerManagement.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.DashBoard.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.EmployeeDashboard.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.employeeRegistration.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.Home.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.ProfileForm.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCadminHome.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCcustomOrder.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCDashboardLayout.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCemployee.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCfaq.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCmyOrder.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.UCProduct.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.exe
+C:\Users\User\Downloads\project_R\project\project\obj\Debug\project.pdb
+D:\report\project_R\project\project\bin\Debug\project.exe.config
+D:\report\project_R\project\project\bin\Debug\project.exe
+D:\report\project_R\project\project\bin\Debug\project.pdb
+D:\report\project_R\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\report\project_R\project\project\obj\Debug\project.Admindashboard.resources
+D:\report\project_R\project\project\obj\Debug\project.changePassCustomer.resources
+D:\report\project_R\project\project\obj\Debug\project.customerLogin.resources
+D:\report\project_R\project\project\obj\Debug\project.CustomerManagement.resources
+D:\report\project_R\project\project\obj\Debug\project.DashBoard.resources
+D:\report\project_R\project\project\obj\Debug\project.EmployeeDashboard.resources
+D:\report\project_R\project\project\obj\Debug\project.employeeRegistration.resources
+D:\report\project_R\project\project\obj\Debug\project.Home.resources
+D:\report\project_R\project\project\obj\Debug\project.ProfileForm.resources
+D:\report\project_R\project\project\obj\Debug\project.Properties.Resources.resources
+D:\report\project_R\project\project\obj\Debug\project.RegistrationForm.resources
+D:\report\project_R\project\project\obj\Debug\project.UCadminHome.resources
+D:\report\project_R\project\project\obj\Debug\project.UCcustomOrder.resources
+D:\report\project_R\project\project\obj\Debug\project.UCDashboardLayout.resources
+D:\report\project_R\project\project\obj\Debug\project.UCemployee.resources
+D:\report\project_R\project\project\obj\Debug\project.UCfaq.resources
+D:\report\project_R\project\project\obj\Debug\project.UCmyOrder.resources
+D:\report\project_R\project\project\obj\Debug\project.UCProduct.resources
+D:\report\project_R\project\project\obj\Debug\project.AdminLogin.resources
+D:\report\project_R\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\report\project_R\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\report\project_R\project\project\obj\Debug\project.exe
+D:\report\project_R\project\project\obj\Debug\project.pdb
+D:\report\project_R\project\project\obj\Debug\project.Remove_Customer.resources
+D:\report\project_R\project\project\obj\Debug\project.ChangeEMPpassword.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.ChangeEMPpassword.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.Remove_Customer.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.EmployeeProfile.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.RemoveEmployee.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.ProductList.resources
+C:\Users\nafis\Downloads\project\project\obj\Debug\project.UAdd_product.resources
+D:\report\project_R\project\project\obj\Debug\project.EmployeeProfile.resources
+D:\report\project_R\project\project\obj\Debug\project.ProductList.resources
+D:\report\project_R\project\project\obj\Debug\project.RemoveEmployee.resources
+D:\report\project_R\project\project\obj\Debug\project.UAdd_product.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\bin\Debug\project.exe.config
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\bin\Debug\project.exe
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\bin\Debug\project.pdb
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.Admindashboard.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.ChangeEMPpassword.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.changePassCustomer.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.customerLogin.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.CustomerManagement.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.DashBoard.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.employeeDashboard.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.EmployeeProfile.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.employeeRegistration.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.Home.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.ProductList.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.ProfileForm.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.Remove_Customer.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.RemoveEmployee.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UAdd_product.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCadminHome.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCcustomOrder.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCDashboardLayout.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCemployee.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCfaq.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCmyOrder.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.UCProduct.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.exe
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.pdb
+C:\Users\zidan\OneDrive\Desktop\aaa\project_S\project\project\obj\Debug\project.CustomPopupForm.resources
+C:\Users\nafis\Downloads\project\bin\Debug\project.exe.config
+C:\Users\nafis\Downloads\project\bin\Debug\project.exe
+C:\Users\nafis\Downloads\project\bin\Debug\project.pdb
+C:\Users\nafis\Downloads\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\nafis\Downloads\project\obj\Debug\project.Admindashboard.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.ChangeEMPpassword.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.changePassCustomer.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.customerLogin.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.CustomerManagement.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.CustomPopupForm.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.DashBoard.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.employeeDashboard.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.EmployeeProfile.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.employeeRegistration.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.Home.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.ProductList.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.ProfileForm.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.Remove_Customer.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.RemoveEmployee.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UAdd_product.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCadminHome.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCcustomOrder.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCDashboardLayout.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCemployee.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCfaq.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCProduct.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.AdminLogin.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\nafis\Downloads\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\nafis\Downloads\project\obj\Debug\project.exe
+C:\Users\nafis\Downloads\project\obj\Debug\project.pdb
+C:\Users\nafis\Downloads\project\obj\Debug\project.OrderPopUp.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UCproductview.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.UcOrder.resources
+C:\Users\nafis\Downloads\project\obj\Debug\project.selectState.resources
+D:\copy paste\Project_uup\project\bin\Debug\project.exe.config
+D:\copy paste\Project_uup\project\bin\Debug\project.exe
+D:\copy paste\Project_uup\project\bin\Debug\project.pdb
+D:\copy paste\Project_uup\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\copy paste\Project_uup\project\obj\Debug\project.Admindashboard.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.ChangeEMPpassword.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.changePassCustomer.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.customerLogin.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.CustomerManagement.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.CustomPopupForm.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.DashBoard.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.employeeDashboard.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.EmployeeProfile.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.employeeRegistration.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.Home.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.OrderPopUp.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.ProductList.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.ProfileForm.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.Properties.Resources.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.RegistrationForm.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.Remove_Customer.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.RemoveEmployee.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.selectState.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UAdd_product.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCadminHome.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCcustomOrder.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCDashboardLayout.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCemployee.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCfaq.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UcOrder.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCProduct.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.AdminLogin.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.UCproductview.resources
+D:\copy paste\Project_uup\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\copy paste\Project_uup\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\copy paste\Project_uup\project\obj\Debug\project.exe
+D:\copy paste\Project_uup\project\obj\Debug\project.pdb
+D:\copy paste\Project_uup\project\obj\Debug\project.History.resources
+C:\Users\nafis\Downloads\Project_uup\project\bin\Debug\project.exe.config
+C:\Users\nafis\Downloads\Project_uup\project\bin\Debug\project.exe
+C:\Users\nafis\Downloads\Project_uup\project\bin\Debug\project.pdb
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.Admindashboard.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.ChangeEMPpassword.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.changePassCustomer.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.customerLogin.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.CustomerManagement.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.CustomPopupForm.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.DashBoard.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.employeeDashboard.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.EmployeeProfile.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.employeeRegistration.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.History.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.Home.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.OrderPopUp.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.ProductList.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.ProfileForm.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.RegistrationForm.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.selectState.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.UAdd_product.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.UCemployee.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.UcOrder.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.UCProduct.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.AdminLogin.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.UCproductview.resources
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.exe
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.pdb
+C:\Users\nafis\Downloads\Project_uup\project\obj\Debug\project.ReStoke.resources
+D:\report\Project_uup\Project_uup\project\bin\Debug\project.exe.config
+D:\report\Project_uup\Project_uup\project\bin\Debug\project.exe
+D:\report\Project_uup\Project_uup\project\bin\Debug\project.pdb
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.Admindashboard.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.ChangeEMPpassword.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.changePassCustomer.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.customerLogin.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.CustomerManagement.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.CustomPopupForm.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.DashBoard.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.employeeDashboard.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.EmployeeProfile.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.employeeRegistration.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.History.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.Home.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.OrderPopUp.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.ProductList.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.ProfileForm.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.Properties.Resources.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.RegistrationForm.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.ReStoke.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.selectState.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.UAdd_product.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.UCemployee.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.UcOrder.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.UCProduct.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.AdminLogin.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.UCproductview.resources
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.exe
+D:\report\Project_uup\Project_uup\project\obj\Debug\project.pdb
